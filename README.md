@@ -3,20 +3,20 @@
 ## About
 This is a Mini-Project for SC1115 (Introduction to Data Science and Artificial Intelligence) which focuses on ECommerce from The Movie Database APIs. For detailed walkthrough, please view the source code in order from:
 - Data Cleaning and Extraction
-- Data Exloratory and Analysis
+- Data Exploratory and Analysis
 - Conclusion
 
 ## Problem Definition
 Our problem definition revolves around patterns within e-commerce operations to address key challenges: how to predict the price of a good.
 
 ## Models Used
-Multiple regression models, including linear regression and decision tree regressors, were evaluated. Hyperparameter tuning was performed where applicable to optimize each model's performance.
-Models were trained on the training dataset and evaluated using metrics such as Mean Squared Error (MSE) and R-squared. The best-performing model was then used to make predictions on the test set.
+Multiple regression models, including linear regression and decision tree regressors, were evaluated. 
+Models were trained on the training dataset and evaluated using metrics such as Mean Squared Error (MSE) and R-squared. 
 
 ## Results and Insights
 The project successfully developed a model capable of predicting product prices with significant accuracy. Key insights include:
 - Category Influence: Product category significantly affects pricing predictions, more so than brand or individual sales data.
-- Model Performance: While some models showed a tendency to overfit, careful feature selection and regularization helped mitigate this issue.
+- Model Performance: While some models showed a tendency to overfit, careful feature selection and regularization may mitigate this issue.
 - Predictive Power: The final model demonstrated strong predictive capabilities, with an R-squared value indicating a good fit to the unseen data.
 
 ## Conclusion
