@@ -2,9 +2,13 @@
 
 ## About
 This is a Mini-Project for SC1115 (Introduction to Data Science and Artificial Intelligence) which focuses on ECommerce from The Movie Database APIs. For detailed walkthrough, please view the source code in order from:
-- Data Cleaning and Extraction
-- Data Exploratory and Analysis
-- Conclusion
+
+-[Data Cleaning and Extraction](https://github.com/quefg/ECommerce-Data-Analysis/blob/main/Miniproject_Part_1_Data_Cleaning_and_Extraction.ipynb)
+
+-[Data Exploratory and Analysis](https://github.com/quefg/ECommerce-Data-Analysis/blob/main/Miniproject_Part_2_Data%20Exploratory%20and%20Analysis.ipynb)
+
+-[Conclusion](https://github.com/quefg/ECommerce-Data-Analysis/blob/main/Miniproject_Part_3_Conclusion.ipynb)
+
 
 ## Problem Definition
 Our problem definition revolves around patterns within e-commerce operations to address key challenges: how to predict the price of a good.
