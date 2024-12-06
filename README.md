@@ -30,7 +30,7 @@ This machine learning project provides a robust framework for predicting e-comme
 - Enhance Data Collection: To improve model robustness and address overfitting, more diverse and comprehensive data should be collected. This includes finer details on customer demographics, buying behavior, and perhaps more granular cost details.
 - Utilize Advanced Modeling Techniques: Employing more sophisticated machine learning techniques such as ensemble methods or neural networks might help in handling complexities better and improving prediction accuracy while avoiding overfitting.
 ## Contributor
-github user: C8S286; quefg
+github user: C8S286; quefg; icymeow
 
 ## References
 [https://www.kaggle.com/datasets/ayushparwal2026/online-ecommerce/data](https://www.kaggle.com/datasets/ayushparwal2026/online-ecommerce/data)
